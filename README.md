@@ -3,7 +3,7 @@
 
 
 ## :notebook_with_decorative_cover:  Introduction
-![Ryan](https://user-images.githubusercontent.com/44666092/207837836-1ec09826-dc7a-462a-a0a5-c9e6897dd9c0.jpg)  
+![20200429000197_0](https://user-images.githubusercontent.com/44666092/213598987-d8677a9f-b035-42f0-b91d-5366ab689739.jpg)
 "라이언"을 좋아하는 초보 개발자
 
 ## :computer: My GitHub Stats
