@@ -7,6 +7,10 @@
 
 "라이언"을 좋아하는 초보 개발자입니다!
 
+## ✏️ velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bty0823)](https://velog.io/@bty0823/posts)
+
+
 ## :computer: My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoodRyan)](https://github.com/HoodRyan/github-readme-stats)
 
