@@ -46,7 +46,7 @@
 ## 🔗 Contact & Links
 * 📧 **Email:** bty0823@naver.com
 * 📝 **Blog:** [velog.io/@bty0823](https://velog.io/@bty0823/posts)
-* 📄 **Portfolio:** [[배태용 포트폴리오](https://drive.google.com/file/d/16T8YVcrDHh-1MBtk21bZzmrxs9NMpJ5H/view?usp=drive_link)]
+* 📄 **Portfolio:** [[배태용 포트폴리오](https://drive.google.com/file/d/1eDnmNUECyccYVhizoX_lS41ngvwI5wWD/view?usp=drive_link)]
 
 
 ## ✏️ My Blog
